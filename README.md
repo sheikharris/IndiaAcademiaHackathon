@@ -1,0 +1,2 @@
+# IndiaAcademiaHackathon
+Hindi character classification
